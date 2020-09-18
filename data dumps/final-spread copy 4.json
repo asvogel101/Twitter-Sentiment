@@ -1,0 +1,2498 @@
+[{
+    "created_at": "Sun Aug 23 10:02:55 +0000 2020",
+    "id": 1297474389827616769,
+    "id_str": "1297474389827616769",
+    "text": "#Ethereum hourly net stats.\n9am - 10am UTC\nblocks:280\navgDiff:2.69 PH\nhashRate:223.49 TH/s\navgSize:39.62 KB\ntxns:53429\n#ETH #BTC #crypto",
+    "source": "<a href=\"https://test.com\" rel=\"nofollow\">twe_ether</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1254598912775614464,
+        "id_str": "1254598912775614464",
+        "name": "Tweether",
+        "screen_name": "Twe_ether",
+        "location": null,
+        "url": null,
+        "description": "Tweet regarding ethereum net stats.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 97,
+        "friends_count": 0,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 2454,
+        "created_at": "Mon Apr 27 02:31:22 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1263099877451415557/Hr96tRQz_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263099877451415557/Hr96tRQz_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Ethereum",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "text": "ETH",
+                "indices": [
+                    119,
+                    123
+                ]
+            },
+            {
+                "text": "BTC",
+                "indices": [
+                    124,
+                    128
+                ]
+            },
+            {
+                "text": "crypto",
+                "indices": [
+                    129,
+                    136
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1598176975100"
+},
+{
+    "created_at": "Sun Aug 23 10:03:04 +0000 2020",
+    "id": 1297474429556068352,
+    "id_str": "1297474429556068352",
+    "text": "Verifying your crypto account on ChainEX is simpler than you think! https://t.co/Z0lzkZJXPF\n\n#Platform #Trade… https://t.co/vpsKkY4tZ3",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"https://coschedule.com\" rel=\"nofollow\">CoSchedule</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 923182067533279237,
+        "id_str": "923182067533279237",
+        "name": "ChainEX",
+        "screen_name": "ChainEXIO",
+        "location": "South Africa",
+        "url": "https://chainex.io",
+        "description": "ChainEX, is a digital currency platform where South African traders can buy, sell and trade more than 20 digital assets using ZAR as fiat currency.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1534,
+        "friends_count": 1390,
+        "listed_count": 12,
+        "favourites_count": 546,
+        "statuses_count": 3393,
+        "created_at": "Wed Oct 25 13:38:51 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239839590883696640/dAKguJyS_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239839590883696640/dAKguJyS_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/923182067533279237/1584435770",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Verifying your crypto account on ChainEX is simpler than you think! https://t.co/Z0lzkZJXPF\n\n#Platform #Trade #Digital #Crypto #Assets #ChainEX #Bitcoin #SA #BTC #Blockchain #cryptocurrency #crypto #cryptocurrencies #cryptonews #cryptotrading https://t.co/J9dg0Jvf0h",
+        "display_text_range": [
+            0,
+            242
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Platform",
+                    "indices": [
+                        93,
+                        102
+                    ]
+                },
+                {
+                    "text": "Trade",
+                    "indices": [
+                        103,
+                        109
+                    ]
+                },
+                {
+                    "text": "Digital",
+                    "indices": [
+                        110,
+                        118
+                    ]
+                },
+                {
+                    "text": "Crypto",
+                    "indices": [
+                        119,
+                        126
+                    ]
+                },
+                {
+                    "text": "Assets",
+                    "indices": [
+                        127,
+                        134
+                    ]
+                },
+                {
+                    "text": "ChainEX",
+                    "indices": [
+                        135,
+                        143
+                    ]
+                },
+                {
+                    "text": "Bitcoin",
+                    "indices": [
+                        144,
+                        152
+                    ]
+                },
+                {
+                    "text": "SA",
+                    "indices": [
+                        153,
+                        156
+                    ]
+                },
+                {
+                    "text": "BTC",
+                    "indices": [
+                        157,
+                        161
+                    ]
+                },
+                {
+                    "text": "Blockchain",
+                    "indices": [
+                        162,
+                        173
+                    ]
+                },
+                {
+                    "text": "cryptocurrency",
+                    "indices": [
+                        174,
+                        189
+                    ]
+                },
+                {
+                    "text": "crypto",
+                    "indices": [
+                        190,
+                        197
+                    ]
+                },
+                {
+                    "text": "cryptocurrencies",
+                    "indices": [
+                        198,
+                        215
+                    ]
+                },
+                {
+                    "text": "cryptonews",
+                    "indices": [
+                        216,
+                        227
+                    ]
+                },
+                {
+                    "text": "cryptotrading",
+                    "indices": [
+                        228,
+                        242
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/Z0lzkZJXPF",
+                    "expanded_url": "https://support.chainex.io/solution/articles/35000029879-how-do-i-verify-my-account-",
+                    "display_url": "support.chainex.io/solution/artic…",
+                    "indices": [
+                        68,
+                        91
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1297474427651751937,
+                    "id_str": "1297474427651751937",
+                    "indices": [
+                        243,
+                        266
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EgGOHh1WAAEilI8.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EgGOHh1WAAEilI8.png",
+                    "url": "https://t.co/J9dg0Jvf0h",
+                    "display_url": "pic.twitter.com/J9dg0Jvf0h",
+                    "expanded_url": "https://twitter.com/ChainEXIO/status/1297474429556068352/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 800,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 800,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1297474427651751937,
+                    "id_str": "1297474427651751937",
+                    "indices": [
+                        243,
+                        266
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EgGOHh1WAAEilI8.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EgGOHh1WAAEilI8.png",
+                    "url": "https://t.co/J9dg0Jvf0h",
+                    "display_url": "pic.twitter.com/J9dg0Jvf0h",
+                    "expanded_url": "https://twitter.com/ChainEXIO/status/1297474429556068352/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 800,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 800,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Platform",
+                "indices": [
+                    93,
+                    102
+                ]
+            },
+            {
+                "text": "Trade",
+                "indices": [
+                    103,
+                    109
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/Z0lzkZJXPF",
+                "expanded_url": "https://support.chainex.io/solution/articles/35000029879-how-do-i-verify-my-account-",
+                "display_url": "support.chainex.io/solution/artic…",
+                "indices": [
+                    68,
+                    91
+                ]
+            },
+            {
+                "url": "https://t.co/vpsKkY4tZ3",
+                "expanded_url": "https://twitter.com/i/web/status/1297474429556068352",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    111,
+                    134
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1598176984572"
+},
+{
+    "created_at": "Sun Aug 23 10:03:09 +0000 2020",
+    "id": 1297474451030843393,
+    "id_str": "1297474451030843393",
+    "text": "@BD3GSYTvv39E4i0 #XEM %100 profit.\nMore than 6000% gainful analyses reached the targets in last 3 months. You can s… https://t.co/Ks2dEvrfT9",
+    "display_text_range": [
+        17,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1297473718340313090,
+    "in_reply_to_status_id_str": "1297473718340313090",
+    "in_reply_to_user_id": 991198911577505793,
+    "in_reply_to_user_id_str": "991198911577505793",
+    "in_reply_to_screen_name": "BD3GSYTvv39E4i0",
+    "user": {
+        "id": 852807192,
+        "id_str": "852807192",
+        "name": "Coinforecaster",
+        "screen_name": "coinforecaster",
+        "location": null,
+        "url": null,
+        "description": "Analyst\n20+ years experience in markets\nProfessional analyses\nAnalyses are not investment advice",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4558,
+        "friends_count": 156,
+        "listed_count": 40,
+        "favourites_count": 838,
+        "statuses_count": 24642,
+        "created_at": "Sat Sep 29 12:48:37 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "034F8A",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1274818749431009280/N82qFLBN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1274818749431009280/N82qFLBN_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/852807192/1592775125",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1297472715490758658,
+    "quoted_status_id_str": "1297472715490758658",
+    "quoted_status": {
+        "created_at": "Sun Aug 23 09:56:15 +0000 2020",
+        "id": 1297472715490758658,
+        "id_str": "1297472715490758658",
+        "text": "#XEM hit the T1 zone at about 💰%100 profit.\nPatience and true analysis bring you money.\nMake money with coinforecas… https://t.co/hh9DPLF90s",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 852807192,
+            "id_str": "852807192",
+            "name": "Coinforecaster",
+            "screen_name": "coinforecaster",
+            "location": null,
+            "url": null,
+            "description": "Analyst\n20+ years experience in markets\nProfessional analyses\nAnalyses are not investment advice",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 4558,
+            "friends_count": 156,
+            "listed_count": 40,
+            "favourites_count": 838,
+            "statuses_count": 24641,
+            "created_at": "Sat Sep 29 12:48:37 +0000 2012",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "034F8A",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1274818749431009280/N82qFLBN_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1274818749431009280/N82qFLBN_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/852807192/1592775125",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "#XEM hit the T1 zone at about 💰%100 profit.\nPatience and true analysis bring you money.\nMake money with coinforecaster's true technical analyses.\nMore than 6000% gainful analyses reached the targets.\nJoin us now to make money.\nDm to me for details.\n#bitcoin #btc #eth #xem #nem https://t.co/XUO1ygiAnr",
+            "display_text_range": [
+                0,
+                277
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "XEM",
+                        "indices": [
+                            0,
+                            4
+                        ]
+                    },
+                    {
+                        "text": "bitcoin",
+                        "indices": [
+                            249,
+                            257
+                        ]
+                    },
+                    {
+                        "text": "btc",
+                        "indices": [
+                            258,
+                            262
+                        ]
+                    },
+                    {
+                        "text": "eth",
+                        "indices": [
+                            263,
+                            267
+                        ]
+                    },
+                    {
+                        "text": "xem",
+                        "indices": [
+                            268,
+                            272
+                        ]
+                    },
+                    {
+                        "text": "nem",
+                        "indices": [
+                            273,
+                            277
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1297472081538539521,
+                        "id_str": "1297472081538539521",
+                        "indices": [
+                            278,
+                            301
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EgGL-94XYAEhgVW.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EgGL-94XYAEhgVW.jpg",
+                        "url": "https://t.co/XUO1ygiAnr",
+                        "display_url": "pic.twitter.com/XUO1ygiAnr",
+                        "expanded_url": "https://twitter.com/coinforecaster/status/1297472715490758658/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1765,
+                                "h": 701,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 477,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 270,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1297472081538539521,
+                        "id_str": "1297472081538539521",
+                        "indices": [
+                            278,
+                            301
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EgGL-94XYAEhgVW.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EgGL-94XYAEhgVW.jpg",
+                        "url": "https://t.co/XUO1ygiAnr",
+                        "display_url": "pic.twitter.com/XUO1ygiAnr",
+                        "expanded_url": "https://twitter.com/coinforecaster/status/1297472715490758658/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1765,
+                                "h": 701,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 477,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 270,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "XEM",
+                    "indices": [
+                        0,
+                        4
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/hh9DPLF90s",
+                    "expanded_url": "https://twitter.com/i/web/status/1297472715490758658",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/JgKagIpAgF",
+        "expanded": "https://twitter.com/coinforecaster/status/1297472715490758658?s=20",
+        "display": "twitter.com/coinforecaster…"
+    },
+    "is_quote_status": true,
+    "extended_tweet": {
+        "full_text": "@BD3GSYTvv39E4i0 #XEM %100 profit.\nMore than 6000% gainful analyses reached the targets in last 3 months. You can see all on my profile.\nhttps://t.co/JgKagIpAgF",
+        "display_text_range": [
+            17,
+            160
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "XEM",
+                    "indices": [
+                        17,
+                        21
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/JgKagIpAgF",
+                    "expanded_url": "https://twitter.com/coinforecaster/status/1297472715490758658?s=20",
+                    "display_url": "twitter.com/coinforecaster…",
+                    "indices": [
+                        137,
+                        160
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "BD3GSYTvv39E4i0",
+                    "name": "#クロノコイン🍙赤鯉（非公式）",
+                    "id": 991198911577505793,
+                    "id_str": "991198911577505793",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "XEM",
+                "indices": [
+                    17,
+                    21
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/Ks2dEvrfT9",
+                "expanded_url": "https://twitter.com/i/web/status/1297474451030843393",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "BD3GSYTvv39E4i0",
+                "name": "#クロノコイン🍙赤鯉（非公式）",
+                "id": 991198911577505793,
+                "id_str": "991198911577505793",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1598176989692"
+},
+{
+    "created_at": "Sun Aug 23 10:03:24 +0000 2020",
+    "id": 1297474511558848512,
+    "id_str": "1297474511558848512",
+    "text": "@DyqCEHh86xAJzNe #XEM %100 profit.\nMore than 6000% gainful analyses reached the targets in last 3 months. You can s… https://t.co/s97tGmN43z",
+    "display_text_range": [
+        17,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1297473212104634368,
+    "in_reply_to_status_id_str": "1297473212104634368",
+    "in_reply_to_user_id": 1127620099605536768,
+    "in_reply_to_user_id_str": "1127620099605536768",
+    "in_reply_to_screen_name": "DyqCEHh86xAJzNe",
+    "user": {
+        "id": 852807192,
+        "id_str": "852807192",
+        "name": "Coinforecaster",
+        "screen_name": "coinforecaster",
+        "location": null,
+        "url": null,
+        "description": "Analyst\n20+ years experience in markets\nProfessional analyses\nAnalyses are not investment advice",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4558,
+        "friends_count": 156,
+        "listed_count": 40,
+        "favourites_count": 838,
+        "statuses_count": 24643,
+        "created_at": "Sat Sep 29 12:48:37 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "034F8A",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1274818749431009280/N82qFLBN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1274818749431009280/N82qFLBN_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/852807192/1592775125",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1297472715490758658,
+    "quoted_status_id_str": "1297472715490758658",
+    "quoted_status": {
+        "created_at": "Sun Aug 23 09:56:15 +0000 2020",
+        "id": 1297472715490758658,
+        "id_str": "1297472715490758658",
+        "text": "#XEM hit the T1 zone at about 💰%100 profit.\nPatience and true analysis bring you money.\nMake money with coinforecas… https://t.co/hh9DPLF90s",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 852807192,
+            "id_str": "852807192",
+            "name": "Coinforecaster",
+            "screen_name": "coinforecaster",
+            "location": null,
+            "url": null,
+            "description": "Analyst\n20+ years experience in markets\nProfessional analyses\nAnalyses are not investment advice",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 4558,
+            "friends_count": 156,
+            "listed_count": 40,
+            "favourites_count": 838,
+            "statuses_count": 24642,
+            "created_at": "Sat Sep 29 12:48:37 +0000 2012",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "034F8A",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1274818749431009280/N82qFLBN_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1274818749431009280/N82qFLBN_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/852807192/1592775125",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "#XEM hit the T1 zone at about 💰%100 profit.\nPatience and true analysis bring you money.\nMake money with coinforecaster's true technical analyses.\nMore than 6000% gainful analyses reached the targets.\nJoin us now to make money.\nDm to me for details.\n#bitcoin #btc #eth #xem #nem https://t.co/XUO1ygiAnr",
+            "display_text_range": [
+                0,
+                277
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "XEM",
+                        "indices": [
+                            0,
+                            4
+                        ]
+                    },
+                    {
+                        "text": "bitcoin",
+                        "indices": [
+                            249,
+                            257
+                        ]
+                    },
+                    {
+                        "text": "btc",
+                        "indices": [
+                            258,
+                            262
+                        ]
+                    },
+                    {
+                        "text": "eth",
+                        "indices": [
+                            263,
+                            267
+                        ]
+                    },
+                    {
+                        "text": "xem",
+                        "indices": [
+                            268,
+                            272
+                        ]
+                    },
+                    {
+                        "text": "nem",
+                        "indices": [
+                            273,
+                            277
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1297472081538539521,
+                        "id_str": "1297472081538539521",
+                        "indices": [
+                            278,
+                            301
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EgGL-94XYAEhgVW.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EgGL-94XYAEhgVW.jpg",
+                        "url": "https://t.co/XUO1ygiAnr",
+                        "display_url": "pic.twitter.com/XUO1ygiAnr",
+                        "expanded_url": "https://twitter.com/coinforecaster/status/1297472715490758658/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1765,
+                                "h": 701,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 477,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 270,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1297472081538539521,
+                        "id_str": "1297472081538539521",
+                        "indices": [
+                            278,
+                            301
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EgGL-94XYAEhgVW.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EgGL-94XYAEhgVW.jpg",
+                        "url": "https://t.co/XUO1ygiAnr",
+                        "display_url": "pic.twitter.com/XUO1ygiAnr",
+                        "expanded_url": "https://twitter.com/coinforecaster/status/1297472715490758658/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1765,
+                                "h": 701,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 477,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 270,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "XEM",
+                    "indices": [
+                        0,
+                        4
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/hh9DPLF90s",
+                    "expanded_url": "https://twitter.com/i/web/status/1297472715490758658",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/JgKagIpAgF",
+        "expanded": "https://twitter.com/coinforecaster/status/1297472715490758658?s=20",
+        "display": "twitter.com/coinforecaster…"
+    },
+    "is_quote_status": true,
+    "extended_tweet": {
+        "full_text": "@DyqCEHh86xAJzNe #XEM %100 profit.\nMore than 6000% gainful analyses reached the targets in last 3 months. You can see all on my profile.\nhttps://t.co/JgKagIpAgF",
+        "display_text_range": [
+            17,
+            160
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "XEM",
+                    "indices": [
+                        17,
+                        21
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/JgKagIpAgF",
+                    "expanded_url": "https://twitter.com/coinforecaster/status/1297472715490758658?s=20",
+                    "display_url": "twitter.com/coinforecaster…",
+                    "indices": [
+                        137,
+                        160
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "DyqCEHh86xAJzNe",
+                    "name": "ポンデライオン",
+                    "id": 1127620099605536768,
+                    "id_str": "1127620099605536768",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "XEM",
+                "indices": [
+                    17,
+                    21
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/s97tGmN43z",
+                "expanded_url": "https://twitter.com/i/web/status/1297474511558848512",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "DyqCEHh86xAJzNe",
+                "name": "ポンデライオン",
+                "id": 1127620099605536768,
+                "id_str": "1127620099605536768",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1598177004123"
+},
+{
+    "created_at": "Sun Aug 23 10:03:28 +0000 2020",
+    "id": 1297474528805756928,
+    "id_str": "1297474528805756928",
+    "text": "@mycointainercom 𝘚𝘤𝘢𝘳𝘤𝘪𝘵𝘺 𝘤𝘳𝘦𝘢𝘵𝘦𝘴 𝘷𝘢𝘭𝘶𝘦\n\n$XRC #BitcoinRhodium \n⌬ Finite Supply ✨ ⅒ #BTC \n⌬ Mineable ⛏️ POW X13\n⌬ St… https://t.co/rJx2ApkNCE",
+    "display_text_range": [
+        17,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1297430671942721536,
+    "in_reply_to_status_id_str": "1297430671942721536",
+    "in_reply_to_user_id": 1098126456276828160,
+    "in_reply_to_user_id_str": "1098126456276828160",
+    "in_reply_to_screen_name": "mycointainercom",
+    "user": {
+        "id": 1199597842257473537,
+        "id_str": "1199597842257473537",
+        "name": "乂尺匚 = ⅒ #BTC",
+        "screen_name": "XRC_Indonesia",
+        "location": "on your phone",
+        "url": "https://www.bitcoinrh.org/idn-en/",
+        "description": "メネく is awesome | Not a fork | POW only | ⅒ #Bitcoin supply | ♥ Strong HODL",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 78,
+        "friends_count": 34,
+        "listed_count": 1,
+        "favourites_count": 2886,
+        "statuses_count": 932,
+        "created_at": "Wed Nov 27 07:56:56 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1289905725347467271/tleILG8__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1289905725347467271/tleILG8__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1199597842257473537/1594282763",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@mycointainercom 𝘚𝘤𝘢𝘳𝘤𝘪𝘵𝘺 𝘤𝘳𝘦𝘢𝘵𝘦𝘴 𝘷𝘢𝘭𝘶𝘦\n\n$XRC #BitcoinRhodium \n⌬ Finite Supply ✨ ⅒ #BTC \n⌬ Mineable ⛏️ POW X13\n⌬ Strong Hands Programme 💪⏳🌾\n⌬ WASABI Integration 👻🔐\n⌬ FreeMarket➊ne #DEFI project 🛒🥇🌐  &gt;The true #SatoshiVision a decentralize market https://t.co/mJo5fL4w2L",
+        "display_text_range": [
+            17,
+            248
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BitcoinRhodium",
+                    "indices": [
+                        46,
+                        61
+                    ]
+                },
+                {
+                    "text": "BTC",
+                    "indices": [
+                        83,
+                        87
+                    ]
+                },
+                {
+                    "text": "DEFI",
+                    "indices": [
+                        180,
+                        185
+                    ]
+                },
+                {
+                    "text": "SatoshiVision",
+                    "indices": [
+                        212,
+                        226
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "mycointainercom",
+                    "name": "MyCointainer.com",
+                    "id": 1098126456276828160,
+                    "id_str": "1098126456276828160",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "symbols": [
+                {
+                    "text": "XRC",
+                    "indices": [
+                        41,
+                        45
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1297474504931778562,
+                    "id_str": "1297474504931778562",
+                    "indices": [
+                        249,
+                        272
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EgGOMBuVoAIZki3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EgGOMBuVoAIZki3.jpg",
+                    "url": "https://t.co/mJo5fL4w2L",
+                    "display_url": "pic.twitter.com/mJo5fL4w2L",
+                    "expanded_url": "https://twitter.com/XRC_Indonesia/status/1297474528805756928/photo/1",
+                    "type": "animated_gif",
+                    "video_info": {
+                        "aspect_ratio": [
+                            141,
+                            115
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/EgGOMBuVoAIZki3.mp4"
+                            }
+                        ]
+                    },
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 564,
+                            "h": 460,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 564,
+                            "h": 460,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 564,
+                            "h": 460,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1297474504931778562,
+                    "id_str": "1297474504931778562",
+                    "indices": [
+                        249,
+                        272
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EgGOMBuVoAIZki3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EgGOMBuVoAIZki3.jpg",
+                    "url": "https://t.co/mJo5fL4w2L",
+                    "display_url": "pic.twitter.com/mJo5fL4w2L",
+                    "expanded_url": "https://twitter.com/XRC_Indonesia/status/1297474528805756928/photo/1",
+                    "type": "animated_gif",
+                    "video_info": {
+                        "aspect_ratio": [
+                            141,
+                            115
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/EgGOMBuVoAIZki3.mp4"
+                            }
+                        ]
+                    },
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 564,
+                            "h": 460,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 564,
+                            "h": 460,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 564,
+                            "h": 460,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BitcoinRhodium",
+                "indices": [
+                    46,
+                    61
+                ]
+            },
+            {
+                "text": "BTC",
+                "indices": [
+                    83,
+                    87
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/rJx2ApkNCE",
+                "expanded_url": "https://twitter.com/i/web/status/1297474528805756928",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "mycointainercom",
+                "name": "MyCointainer.com",
+                "id": 1098126456276828160,
+                "id_str": "1098126456276828160",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": [
+            {
+                "text": "XRC",
+                "indices": [
+                    41,
+                    45
+                ]
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1598177008235"
+},
+{
+    "created_at": "Sun Aug 23 10:03:31 +0000 2020",
+    "id": 1297474541837590529,
+    "id_str": "1297474541837590529",
+    "text": "LIQUIDITY:\n\nTotal Volume: $1.8B (-36%)\n\nAmount of Trading Pairs: 617 (0)\n\nAverage volume for one pair: $2.92M (-36%… https://t.co/IHD3y610Vl",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1193153316684996608,
+        "id_str": "1193153316684996608",
+        "name": "✨ Huobi Daily Stats ✨",
+        "screen_name": "HuobiStats",
+        "location": "Decentralized",
+        "url": "http://t.me/huobistats",
+        "description": "#SmartLiquidity Group. We collect, processed & structured. Sharing key market data on a basis of open code resources for @HuobiGlobal ecosystem.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4740,
+        "friends_count": 165,
+        "listed_count": 13,
+        "favourites_count": 2462,
+        "statuses_count": 4448,
+        "created_at": "Sat Nov 09 13:08:56 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1194313332720906240/TJQRvZ5D_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194313332720906240/TJQRvZ5D_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1193153316684996608/1573419634",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "LIQUIDITY:\n\nTotal Volume: $1.8B (-36%)\n\nAmount of Trading Pairs: 617 (0)\n\nAverage volume for one pair: $2.92M (-36%)\n\nTotal #USDT pairs Vol: $1.59B (-36%)\n\nTotal #BTC pairs Vol: $164.1M (-36.2%)\n\nTotal #ETH pairs Vol: $29.9M (-34.3%)\n\n#Liquidity #Huobi #SmartLiquidity https://t.co/7WvyuT9wYC",
+        "display_text_range": [
+            0,
+            268
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "USDT",
+                    "indices": [
+                        124,
+                        129
+                    ]
+                },
+                {
+                    "text": "BTC",
+                    "indices": [
+                        162,
+                        166
+                    ]
+                },
+                {
+                    "text": "ETH",
+                    "indices": [
+                        202,
+                        206
+                    ]
+                },
+                {
+                    "text": "Liquidity",
+                    "indices": [
+                        235,
+                        245
+                    ]
+                },
+                {
+                    "text": "Huobi",
+                    "indices": [
+                        246,
+                        252
+                    ]
+                },
+                {
+                    "text": "SmartLiquidity",
+                    "indices": [
+                        253,
+                        268
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1297474537114787841,
+                    "id_str": "1297474537114787841",
+                    "indices": [
+                        269,
+                        292
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EgGON5nXYAE1eMA.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EgGON5nXYAE1eMA.jpg",
+                    "url": "https://t.co/7WvyuT9wYC",
+                    "display_url": "pic.twitter.com/7WvyuT9wYC",
+                    "expanded_url": "https://twitter.com/HuobiStats/status/1297474541837590529/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1000,
+                            "h": 562,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1000,
+                            "h": 562,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1297474537114787841,
+                    "id_str": "1297474537114787841",
+                    "indices": [
+                        269,
+                        292
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EgGON5nXYAE1eMA.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EgGON5nXYAE1eMA.jpg",
+                    "url": "https://t.co/7WvyuT9wYC",
+                    "display_url": "pic.twitter.com/7WvyuT9wYC",
+                    "expanded_url": "https://twitter.com/HuobiStats/status/1297474541837590529/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1000,
+                            "h": 562,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1000,
+                            "h": 562,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/IHD3y610Vl",
+                "expanded_url": "https://twitter.com/i/web/status/1297474541837590529",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1598177011342"
+},
+{
+    "created_at": "Sun Aug 23 10:03:34 +0000 2020",
+    "id": 1297474554198032385,
+    "id_str": "1297474554198032385",
+    "text": "awesome project",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1143945315747356673,
+        "id_str": "1143945315747356673",
+        "name": "Rasel Rana",
+        "screen_name": "RaselRa89645972",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 210,
+        "friends_count": 1128,
+        "listed_count": 0,
+        "favourites_count": 1535,
+        "statuses_count": 1207,
+        "created_at": "Wed Jun 26 18:13:11 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1277642805561548800/Gx1fKS1s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1277642805561548800/Gx1fKS1s_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1291295390352830466,
+    "quoted_status_id_str": "1291295390352830466",
+    "quoted_status": {
+        "created_at": "Thu Aug 06 08:49:46 +0000 2020",
+        "id": 1291295390352830466,
+        "id_str": "1291295390352830466",
+        "text": "🔥 RichVirus #Airdrop is live!!!\n\n💲 Total reward: Up to 10 RCHV [~$10] + 5 RCHV [~$5] per referral.\n\n🔴 Start the Air… https://t.co/v6fMuOFGv7",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1289737398373343232,
+            "id_str": "1289737398373343232",
+            "name": "RichVirus",
+            "screen_name": "RichVirus1",
+            "location": null,
+            "url": "http://RichVirus.com",
+            "description": "Covid-19 make many people lost their job and bankrut. We have Vision make people protect, recover and leverage asset with Blokchain technology. Blokchain secure",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 3874,
+            "friends_count": 212,
+            "listed_count": 0,
+            "favourites_count": 3,
+            "statuses_count": 21,
+            "created_at": "Sun Aug 02 01:39:05 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1291289588002983937/ZACgJHIZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1291289588002983937/ZACgJHIZ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1289737398373343232/1596702404",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "🔥 RichVirus #Airdrop is live!!!\n\n💲 Total reward: Up to 10 RCHV [~$10] + 5 RCHV [~$5] per referral.\n\n🔴 Start the Airdrop Bot: https://t.co/3qtTo71HyW\n\n🔘 Do the tasks on the bot and submit your details.\n\n#Airdrops #cryptocurrency #crypto #giveaway #btc #bitcoin #exchange",
+            "display_text_range": [
+                0,
+                269
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Airdrop",
+                        "indices": [
+                            12,
+                            20
+                        ]
+                    },
+                    {
+                        "text": "Airdrops",
+                        "indices": [
+                            202,
+                            211
+                        ]
+                    },
+                    {
+                        "text": "cryptocurrency",
+                        "indices": [
+                            212,
+                            227
+                        ]
+                    },
+                    {
+                        "text": "crypto",
+                        "indices": [
+                            228,
+                            235
+                        ]
+                    },
+                    {
+                        "text": "giveaway",
+                        "indices": [
+                            236,
+                            245
+                        ]
+                    },
+                    {
+                        "text": "btc",
+                        "indices": [
+                            246,
+                            250
+                        ]
+                    },
+                    {
+                        "text": "bitcoin",
+                        "indices": [
+                            251,
+                            259
+                        ]
+                    },
+                    {
+                        "text": "exchange",
+                        "indices": [
+                            260,
+                            269
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/3qtTo71HyW",
+                        "expanded_url": "https://t.me/RichVirusAirdropBot",
+                        "display_url": "t.me/RichVirusAirdr…",
+                        "indices": [
+                            125,
+                            148
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 1112,
+        "reply_count": 443,
+        "retweet_count": 2451,
+        "favorite_count": 2798,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Airdrop",
+                    "indices": [
+                        12,
+                        20
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/v6fMuOFGv7",
+                    "expanded_url": "https://twitter.com/i/web/status/1291295390352830466",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/slc354d1aT",
+        "expanded": "https://twitter.com/RichVirus1/status/1291295390352830466",
+        "display": "twitter.com/RichVirus1/sta…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1598177014289"
+},
+{
+    "created_at": "Sun Aug 23 10:04:07 +0000 2020",
+    "id": 1297474692127891457,
+    "id_str": "1297474692127891457",
+    "text": "@stephanlivera Stack sats, run a node and spreading the gospel, giving the right hints of what to read and who to l… https://t.co/10X8DHUkvi",
+    "display_text_range": [
+        15,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1297339202338582528,
+    "in_reply_to_status_id_str": "1297339202338582528",
+    "in_reply_to_user_id": 230517800,
+    "in_reply_to_user_id_str": "230517800",
+    "in_reply_to_screen_name": "stephanlivera",
+    "user": {
+        "id": 1246103859027640320,
+        "id_str": "1246103859027640320",
+        "name": "SS1971",
+        "screen_name": "SS19712",
+        "location": "Lisbon, Portugal",
+        "url": null,
+        "description": "Father,Lover,Biker,Mathematician,Traveler,Wine Enthusiast,Gourmand,Music and Cinema Buff,Urban Warrior,Cat Lover,Humble but Proud #btc HODLer",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 27,
+        "friends_count": 34,
+        "listed_count": 0,
+        "favourites_count": 1396,
+        "statuses_count": 450,
+        "created_at": "Fri Apr 03 15:55:01 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1275054666087387137/E4OUKgaI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275054666087387137/E4OUKgaI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1246103859027640320/1589546396",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@stephanlivera Stack sats, run a node and spreading the gospel, giving the right hints of what to read and who to listen. That’s what I do. #btc",
+        "display_text_range": [
+            15,
+            144
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "btc",
+                    "indices": [
+                        140,
+                        144
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "stephanlivera",
+                    "name": "Stephan Livera",
+                    "id": 230517800,
+                    "id_str": "230517800",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/10X8DHUkvi",
+                "expanded_url": "https://twitter.com/i/web/status/1297474692127891457",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "stephanlivera",
+                "name": "Stephan Livera",
+                "id": 230517800,
+                "id_str": "230517800",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1598177047174"
+},
+{
+    "created_at": "Sun Aug 23 10:04:19 +0000 2020",
+    "id": 1297474742161735681,
+    "id_str": "1297474742161735681",
+    "text": "💸 Earn free #BTC and multiply crypto up to 15% monthly with @betfury_io BOXes 📦 Enjoy the easy way to get cryptocur… https://t.co/zE94qL5qd3",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3164664165,
+        "id_str": "3164664165",
+        "name": "⚡depann'info06⚡",
+        "screen_name": "depann_info06",
+        "location": "Nice",
+        "url": "http://www.depanninfo06.fr",
+        "description": "14NQZyEEDcMAyDHvHcSz7VwuuTERXRaDqA https://t.co/2xnTvWdIBR https://t.co/v0kjeBq7Gk https://t.co/p65VRNHKMs… DM me for promotions $depanninfo06",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 336,
+        "friends_count": 1694,
+        "listed_count": 4,
+        "favourites_count": 2658,
+        "statuses_count": 5029,
+        "created_at": "Mon Apr 13 16:35:37 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/686947617515921408/dygqxQKx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/686947617515921408/dygqxQKx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3164664165/1452616032",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "💸 Earn free #BTC and multiply crypto up to 15% monthly with @betfury_io BOXes 📦 Enjoy the easy way to get cryptocurrency! Real rewards every 20 min 💥 📈 Referral Bonuses 35% https://t.co/cFNHtUjs6Y #betfurysuccess $TRX $BFG",
+        "display_text_range": [
+            0,
+            222
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BTC",
+                    "indices": [
+                        12,
+                        16
+                    ]
+                },
+                {
+                    "text": "betfurysuccess",
+                    "indices": [
+                        197,
+                        212
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/cFNHtUjs6Y",
+                    "expanded_url": "https://betfury.io/boxes/?r=5e060512c02325338cf78b86",
+                    "display_url": "betfury.io/boxes/?r=5e060…",
+                    "indices": [
+                        173,
+                        196
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "betfury_io",
+                    "name": "🎲 BetFury 🕹",
+                    "id": 1164253322423021570,
+                    "id_str": "1164253322423021570",
+                    "indices": [
+                        60,
+                        71
+                    ]
+                }
+            ],
+            "symbols": [
+                {
+                    "text": "TRX",
+                    "indices": [
+                        213,
+                        217
+                    ]
+                },
+                {
+                    "text": "BFG",
+                    "indices": [
+                        218,
+                        222
+                    ]
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BTC",
+                "indices": [
+                    12,
+                    16
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/zE94qL5qd3",
+                "expanded_url": "https://twitter.com/i/web/status/1297474742161735681",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "betfury_io",
+                "name": "🎲 BetFury 🕹",
+                "id": 1164253322423021570,
+                "id_str": "1164253322423021570",
+                "indices": [
+                    60,
+                    71
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1598177059103"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}]
