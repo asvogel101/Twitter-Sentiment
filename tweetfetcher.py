@@ -4,13 +4,12 @@ from tweepy import OAuthHandler
 from tweepy import Stream
 import time
 import datetime
-
 from itertools import count
-
 from tweepy.streaming import StreamListener
 import json
 from nltk.tokenize import word_tokenize
 import os
+
 consumer_key='WkotXcVWzijO9IVTqtGkHIVER'
 consumer_secret='a0vCMOxXJnDWpIGpvUDsXS39abKM0SmEJQXLCHj8lrlxLUVldy'
 access_token='1113322765640118272-uZJ9BorzzfVKAo5MgJhTnFVYlsOOVd'
@@ -33,9 +32,7 @@ class MyListener(StreamListener):
         if hasattr(status, "retweeted_status"):
             
             print("Passing on a RT")
-            pass
-             
-                
+            pass    
         
         else:
             
@@ -43,8 +40,7 @@ class MyListener(StreamListener):
             f.write(','+'\n')
             count = next(count)
             print('['+str(count)+'] ', "Success! Writing one entry.")
-
-            
+          
             return count
             
     def on_error(self, status):
@@ -54,7 +50,6 @@ class MyListener(StreamListener):
             time.sleep(60*15)
         else:
             print("Error Status "+ str(status))
-
 
 twitter_stream=Stream(auth, MyListener())
 twitter_stream.filter(track=[hashtag], languages=["en"])
