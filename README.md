@@ -15,4 +15,3 @@ You will also need to install some `nltk` packages (`stopwords` and `punkt` I th
 
 ## TODO
 
-*RUN A PYTHON LINTER!!!!*
