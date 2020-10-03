@@ -23,8 +23,6 @@ punctuation = list(string.punctuation)
 stop = stopwords.words('english') + punctuation + ['rt', 'via']
 #terms_stop = [term for term in preprocess(tweet['text']) if term not in stop]
 
-
-
 from nltk.tokenize import word_tokenize
 search_word = None
 tag = set()
@@ -44,8 +42,6 @@ for line in f:
     if texty[:index] in tag:
         #print(texty)
         pass
-
-
     
     elif 'extended_tweet' in line:
         coutn.append(1)
@@ -95,8 +91,6 @@ terms_max = sorted(com_max, key=operator.itemgetter(1), reverse=True)
 print(terms_max[:30])
 print('---------------------------------------------------------------------------------------------------------------------------------------------')
 print(count_search.most_common(50))
-
-
 
 import vincent
  

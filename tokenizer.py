@@ -12,9 +12,6 @@ from mmap import mmap
 def preprocess(s):
     print(word_tokenize(s))
 
-
-
-
 json_file = "mytweets.json"
 
 filew=open(json_file, 'r+')
@@ -28,7 +25,6 @@ with filew as myFile:
         if lookup in line[0]:
             index.append(num)
             print('leak found at line:', num) 
-
      
 def bucket(bucket2, i, bucketk2):
     print('patching leak at ', i[-1])
@@ -37,7 +33,6 @@ def bucket(bucket2, i, bucketk2):
             
             for num, line in enumerate(b, 1):
                 #print(num)
-                
             
                 if num >= i[-1]:
                     #print('d')
@@ -48,11 +43,9 @@ def bucket(bucket2, i, bucketk2):
                 else:
                     #print('3')
                     pass
-            
                     
     except ValueError as e:
         print('finishing')
-        
         
         with bucketk2 as b2:
             
@@ -76,14 +69,10 @@ def bucket(bucket2, i, bucketk2):
 
             b2.close
         return True
-
         
 bucketk=open(json_file,'r+')
 bucketk2=open(json_file,'r+')
 bucket(bucketk, index, bucketk2)
-
-
-
     
 f = json.load(open('final-spread.json'))
 
