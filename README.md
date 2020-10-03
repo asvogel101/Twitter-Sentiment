@@ -15,3 +15,5 @@ You will also need to install some `nltk` packages (`stopwords` and `punkt` I th
 
 ## TODO
 
+-Fix json bucket error when attempting to stream from previous stream and then tokenize
+-Add more analysis tools
