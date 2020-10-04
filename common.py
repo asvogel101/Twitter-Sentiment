@@ -72,9 +72,9 @@ for line in f:
 
         count_all.update(terms_stopshort)
         #print(terms_stopshort)
-        for i in range(len(terms_stoplong)-1):
-            for j in range(i+1,len(terms_stoplong)):  
-                w1, w2 = sorted([terms_stoplong[i],terms_stoplong[j]])
+        for i in range(len(terms_stopshort)-1):
+            for j in range(i+1,len(terms_stopshort)):  
+                w1, w2 = sorted([terms_stopshort[i],terms_stopshort[j]])
                 if w1 != w2:
                     com[w1][w2] += 1
     
