@@ -1,6 +1,6 @@
 # Twitter Sentiments
 
-Project to analyze Twitter streams and search for keywords. Work in progress.
+Project to analyze Twitter streams and search for keywords. Work in progress. You will need access to the TWEEPY API.
 
 ## Dependencies 
 - [vincent](https://vincent.readthedocs.io/en/latest/#)
