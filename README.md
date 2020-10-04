@@ -18,3 +18,7 @@ You will also need to install some `nltk` packages (`stopwords` and `punkt` I th
 - Fix json bucket error when attempting to stream from previous stream and then tokenize
 
 - Add more analysis tools
+
+## HELP
+
+- Run tweetfetcher.py to stream tweets. Then tokenize the tweets into a 'final-spread.json ' with tokenizer.py. Common.py is the only statistical analysis tool as of now. It features a word co-occurrence matrix and frequency of terms. 
