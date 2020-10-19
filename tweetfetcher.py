@@ -10,10 +10,15 @@ import json
 from nltk.tokenize import word_tokenize
 import os
 
-consumer_key='WkotXcVWzijO9IVTqtGkHIVER'
-consumer_secret='a0vCMOxXJnDWpIGpvUDsXS39abKM0SmEJQXLCHj8lrlxLUVldy'
-access_token='1113322765640118272-uZJ9BorzzfVKAo5MgJhTnFVYlsOOVd'
-access_secret='cHh1FhO1HELkOzCOYu6Q8hPrb4pvFviKlCSutobkGp9IG'
+
+
+consumer_key=open("consumerkey.txt", "r").readline().rstrip()
+print(consumer_key)
+consumer_key = str(consumer_key)
+consumer_secret=open("consumersecret.txt", "r").readline().rstrip()
+#consumer_secret='a0vCMOxXJnDWpIGpvUDsXS39abKM0SmEJQXLCHj8lrlxLUVldy'
+access_token=open("accesstoken.txt", "r").readline().rstrip()
+access_secret=open("access.txt", "r").readline().rstrip()
 
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
