@@ -13,10 +13,7 @@ import os
 
 
 consumer_key=open("consumerkey.txt", "r").readline().rstrip()
-print(consumer_key)
-consumer_key = str(consumer_key)
 consumer_secret=open("consumersecret.txt", "r").readline().rstrip()
-#consumer_secret='a0vCMOxXJnDWpIGpvUDsXS39abKM0SmEJQXLCHj8lrlxLUVldy'
 access_token=open("accesstoken.txt", "r").readline().rstrip()
 access_secret=open("access.txt", "r").readline().rstrip()
 

@@ -23,6 +23,6 @@ You will also need to install some `nltk` packages (`stopwords` and `punkt` I th
 
 - You must have access to the tweepy API in order for the application to work. Save your consumer key as a plaintext file named "consumerkey.txt" within the directory. Save your consumer secret as a plaintext file named "consumersecret.txt". Save your access token as a plaintext file named "accesstoken.txt". Save your access secret as a plaintext file named "access.txt". Make sure all keys are located in the main directory. 
 
-- Run tweetfetcher.py to stream tweets. Then tokenize the tweets into a 'final-spread.json ' with tokenizer.py. Common.py is the only statistical analysis tool as of now. It features a word co-occurrence matrix and frequency of terms. 
+- Run tweetfetcher.py to stream tweets to 'my-tweets.json'. Then tokenize the tweets into a 'final-spread.json ' with tokenizer.py. Common.py is the only statistical analysis tool as of now. It features a word co-occurrence matrix and frequency of terms. 
 
-- If attempting to restream, it is recommended that you delete the my-tweets.json and final-spread.json files, or move them to a different directory. Currently working on a way to implement continuous streaming within the same json doc. 
+- If attempting to restream with a pre-existing 'my-tweets.json' already in the directory, it is recommended that you delete the my-tweets.json and final-spread.json (if it exists) file(s), or move them to a different directory. Currently working on a way to implement continuous streaming within the same json doc. 
